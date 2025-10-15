@@ -1,0 +1,4 @@
+notion-client
+pyperclip
+keyboard
+python-dotenv
